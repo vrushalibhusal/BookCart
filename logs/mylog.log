@@ -1,0 +1,67 @@
+[INFO ] 2024-03-24 16:48:13.098 [main] BookCart - Browser launches, url, maximize
+[INFO ] 2024-03-24 16:48:17.499 [main] BookCart - Title Of Book : Harry Potter and the Chamber of Secrets
+[INFO ] 2024-03-24 16:48:17.542 [main] BookCart - Author Of Book : JKR
+[INFO ] 2024-03-24 16:48:17.586 [main] BookCart - Category Of Book : Mystery
+[INFO ] 2024-03-24 16:48:17.629 [main] BookCart - Price Of Book : ₹235.00
+[INFO ] 2024-03-24 16:48:19.735 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:20.573 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:21.850 [main] BookCart - Title Of Book : A Dance with Dragons
+[INFO ] 2024-03-24 16:48:21.888 [main] BookCart - Author Of Book : George R.R. Martin
+[INFO ] 2024-03-24 16:48:21.931 [main] BookCart - Category Of Book : Fantasy
+[INFO ] 2024-03-24 16:48:21.968 [main] BookCart - Price Of Book : ₹412.00
+[INFO ] 2024-03-24 16:48:24.058 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:24.908 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:26.121 [main] BookCart - Title Of Book : Birthday Girl
+[INFO ] 2024-03-24 16:48:26.160 [main] BookCart - Author Of Book : Penelope Douglas
+[INFO ] 2024-03-24 16:48:26.202 [main] BookCart - Category Of Book : Romance
+[INFO ] 2024-03-24 16:48:26.258 [main] BookCart - Price Of Book : ₹441.00
+[INFO ] 2024-03-24 16:48:28.344 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:29.167 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:30.395 [main] BookCart - Title Of Book : The Hate U Give
+[INFO ] 2024-03-24 16:48:30.425 [main] BookCart - Author Of Book : Angie Thomas
+[INFO ] 2024-03-24 16:48:30.469 [main] BookCart - Category Of Book : Biography
+[INFO ] 2024-03-24 16:48:30.507 [main] BookCart - Price Of Book : ₹122.00
+[INFO ] 2024-03-24 16:48:32.594 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:33.423 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:34.588 [main] BookCart - Title Of Book : Rot & Ruin
+[INFO ] 2024-03-24 16:48:34.628 [main] BookCart - Author Of Book : Jonathan Maberry
+[INFO ] 2024-03-24 16:48:34.669 [main] BookCart - Category Of Book : Biography
+[INFO ] 2024-03-24 16:48:34.705 [main] BookCart - Price Of Book : ₹123.00
+[INFO ] 2024-03-24 16:48:36.792 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:37.621 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:41.645 [main] BookCart - Sum of Total Prices : 2666.00
+[INFO ] 2024-03-24 16:48:45.874 [main] BookCart - cart is clear
+[INFO ] 2024-03-24 16:48:45.877 [main] BookCart - Test case execution completed - verifyTotalCartPriceTest
+[INFO ] 2024-03-24 16:48:52.459 [main] BookCart - Browser launches, url, maximize
+[INFO ] 2024-03-24 16:48:56.752 [main] BookCart - Title Of Book : Harry Potter and the Chamber of Secrets
+[INFO ] 2024-03-24 16:48:56.799 [main] BookCart - Author Of Book : JKR
+[INFO ] 2024-03-24 16:48:56.863 [main] BookCart - Category Of Book : Mystery
+[INFO ] 2024-03-24 16:48:56.905 [main] BookCart - Price Of Book : ₹235.00
+[INFO ] 2024-03-24 16:48:59.002 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:48:59.828 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:49:01.079 [main] BookCart - Title Of Book : A Dance with Dragons
+[INFO ] 2024-03-24 16:49:01.117 [main] BookCart - Author Of Book : George R.R. Martin
+[INFO ] 2024-03-24 16:49:01.153 [main] BookCart - Category Of Book : Fantasy
+[INFO ] 2024-03-24 16:49:01.189 [main] BookCart - Price Of Book : ₹412.00
+[INFO ] 2024-03-24 16:49:03.277 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:49:04.095 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:49:05.297 [main] BookCart - Title Of Book : Birthday Girl
+[INFO ] 2024-03-24 16:49:05.339 [main] BookCart - Author Of Book : Penelope Douglas
+[INFO ] 2024-03-24 16:49:05.375 [main] BookCart - Category Of Book : Romance
+[INFO ] 2024-03-24 16:49:05.415 [main] BookCart - Price Of Book : ₹441.00
+[INFO ] 2024-03-24 16:49:07.515 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:49:08.353 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:49:09.569 [main] BookCart - Title Of Book : The Hate U Give
+[INFO ] 2024-03-24 16:49:09.611 [main] BookCart - Author Of Book : Angie Thomas
+[INFO ] 2024-03-24 16:49:09.647 [main] BookCart - Category Of Book : Biography
+[INFO ] 2024-03-24 16:49:09.683 [main] BookCart - Price Of Book : ₹122.00
+[INFO ] 2024-03-24 16:49:11.778 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:49:12.594 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:49:13.759 [main] BookCart - Title Of Book : Rot & Ruin
+[INFO ] 2024-03-24 16:49:13.796 [main] BookCart - Author Of Book : Jonathan Maberry
+[INFO ] 2024-03-24 16:49:13.833 [main] BookCart - Category Of Book : Biography
+[INFO ] 2024-03-24 16:49:13.867 [main] BookCart - Price Of Book : ₹123.00
+[INFO ] 2024-03-24 16:49:15.948 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:49:16.762 [main] BookCart - Book Added in to cart
+[INFO ] 2024-03-24 16:49:40.000 [main] BookCart - cart is clear
+[INFO ] 2024-03-24 16:49:40.000 [main] BookCart - Test case execution completed - verifyModifyCartTest
